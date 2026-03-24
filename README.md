@@ -71,6 +71,10 @@ Clone this repository into your Zed extensions directory:
 git clone https://github.com/eneko-codes/synthwave-theme ~/.local/share/zed/extensions/installed/synthwave-theme
 ```
 
+## Related
+
+- [synthwave-macos-terminal](https://github.com/eneko-codes/synthwave-macos-terminal) — Same colors for macOS Terminal.app and Starship prompt
+
 ## License
 
 MIT
